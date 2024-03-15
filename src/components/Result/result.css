@@ -1,0 +1,73 @@
+.submit-container {
+  width: 32.7rem;
+  height: 36rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3.4rem 2.4rem 3.7rem;
+  border-radius: 15px;
+  background-image: radial-gradient(circle at 50% 0, #232a34, #181e27 90%);
+}
+
+.submit-container img {
+  height: 10rem;
+  width: 14rem;
+}
+
+.submit-container h3 {
+  font-size: 1.4rem;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.57;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fc7614;
+  border-radius: 2.2rem;
+  background-color: #262e38;
+  width: 16.8rem;
+  height: 3.2rem;
+  padding: 0.5rem 1.2rem;
+  margin: 2.4rem 0;
+}
+
+.submit-container h1 {
+  font-size: 2.4rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.submit-container p {
+  font-size: 1.4rem;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.57;
+  letter-spacing: normal;
+  text-align: center;
+  color: #969fad;
+}
+
+.new-rating {
+  font-size: 1.3rem;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.57;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fec8a2;
+  border-radius: 2.2rem;
+  background-color: #444d57;
+  width: 14rem;
+  height: 3rem;
+  padding: 0.5rem 1.2rem;
+  margin: 0.5rem 0;
+  cursor: pointer;
+}

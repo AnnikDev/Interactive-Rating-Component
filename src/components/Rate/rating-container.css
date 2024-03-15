@@ -1,0 +1,82 @@
+.rating-container {
+  border-radius: 30px;
+  background-image: radial-gradient(circle at 50% 0, #232a34, #181e27 89%);
+  display: flex;
+  flex-direction: column;
+  width: 41.2rem;
+  height: 41.6rem;
+  padding: 3.2rem 3.9rem 3.2rem 3.2rem;
+}
+
+.rating-container img {
+  width: 5rem;
+  height: 5rem;
+  padding: 1.6rem 1.5rem;
+  background-color: #262e38;
+  border-radius: 50%;
+  margin-bottom: 3rem;
+}
+
+.rating-container h1 {
+  font-size: 2.8rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #fff;
+  margin-bottom: 0.7rem;
+}
+
+.rating-container p {
+  font-size: 1.5rem;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.6;
+  letter-spacing: normal;
+  text-align: left;
+  color: #969fad;
+}
+
+.rating-buttons {
+  margin: 2.4rem 0 3.2rem;
+  display: flex;
+  gap: 2.2rem;
+}
+
+.buttons {
+  width: 5.1rem;
+  height: 5.1rem;
+  padding: 13px 21px 14px 22px;
+  background-color: #262e38;
+  border-radius: 5rem;
+  font-size: 1.6rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  color: #7c8798;
+  cursor: pointer;
+}
+
+.buttons:hover {
+  background-color: #fc7614;
+  color: #fff;
+}
+
+.submit-button {
+  width: 34.1rem;
+  height: 4.5rem;
+  background-color: #fc7614;
+  border-radius: 3rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+}
+
+.submit-button:hover {
+  background-color: #fff;
+  color: #fc7614;
+}
